@@ -11,8 +11,8 @@ I am a junior developer, I am interested in learning web technologies, I use tec
 
 <h3>💻 Familiar Languages / Tools</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=java,gradle,ts,js,html,sass" />
   <img src="https://skillicons.dev/icons?i=vscode,idea,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=java,gradle,ts,js,html,sass" />
 </div>
 
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=Web_grupo_3)-->
